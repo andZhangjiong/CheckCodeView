@@ -3,4 +3,4 @@
 
   运行截图 1
 
-  ![项目运行截图](https://raw.githubusercontent.com/andZhangjiong/DynamicCircle/master/AB648C0CF0733AC9E31CBE22EA9F2B96.jpg)
+  ![项目运行截图](https://github.com/andZhangjiong/CheckCodeView/blob/master/536F521D-8BC3-4EA1-BFAA-4DB33B01D3BC.png)
